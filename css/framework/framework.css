@@ -49,6 +49,16 @@
     align-items: flex-end;
 }
 
+/* justify content */
+
+.justify-s-between{
+    justify-content: space-between;
+}
+
+.justify-s-around{
+    justify-content: space-around;
+}
+
 /* Flex Proprieties */
 
 .f-growth-0{

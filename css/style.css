@@ -16,7 +16,7 @@
 
 .nested{
     padding: 20px;
-    background-color: forestgreen;
+    background-color: rgb(47, 230, 47);
     border: 2px solid dodgerblue;
 }
 
@@ -39,4 +39,10 @@
 .small{
     padding: 12px;
     height: 50%;
+}
+
+
+.ex-content{
+    background-color: dodgerblue;
+    padding: 20px;
 }
