@@ -109,3 +109,38 @@
     max-width:100%;
 }
 
+/* OFFSET */
+
+.offset-lf-1{
+    margin-left: calc(100% / 12 * 1);   
+}
+.offset-lf-2{
+    margin-left: calc(100% / 12 * 2);   
+}
+.offset-lf-3{
+    margin-left: calc(100% / 12 * 3);   
+}
+.offset-lf-4{
+    margin-left: calc(100% / 12 * 4);   
+}
+.offset-lf-5{
+    margin-left: calc(100% / 12 * 5);   
+}
+.offset-lf-6{
+    margin-left: calc(100% / 12 * 6);   
+}
+.offset-lf-7{
+    margin-left: calc(100% / 12 * 7);   
+}
+.offset-lf-8{
+    margin-left: calc(100% / 12 * 8);   
+}
+.offset-lf-9{
+    margin-left: calc(100% / 12 * 9);   
+}
+.offset-lf-10{
+    margin-left: calc(100% / 12 * 10);   
+}
+.offset-lf-11{
+    margin-left: calc(100% / 12 * 11);   
+}

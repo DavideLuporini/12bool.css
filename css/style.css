@@ -1,15 +1,13 @@
-.row{
-    background-color: dodgerblue;
-}
-
-body{
-    background-color: red;
-}
-
 
 [class^="col"]{
     height: 50px;
     background-color: dodgerblue;
+    border: 2px solid white;
+
+}
+[class^="off"]{
+    height: 50px;
+    background-color: white;
     border: 2px solid white;
 
 }
