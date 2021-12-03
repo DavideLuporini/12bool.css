@@ -1,0 +1,15 @@
+.row{
+    height: 50px;
+    background-color: dodgerblue;
+}
+
+body{
+    background-color: red;
+}
+
+
+.col-1{
+    height: 50px;
+    background-color: dodgerblue;
+    border: 2px solid white;
+}
