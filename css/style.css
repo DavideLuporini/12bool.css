@@ -27,3 +27,16 @@
 .margin-bot-20px{
     margin-bottom: 20px;
 }
+
+
+.container-fluid{
+    padding-bottom: 400px;
+}
+
+.big{
+    padding: 40px;
+}
+.small{
+    padding: 12px;
+    height: 50%;
+}

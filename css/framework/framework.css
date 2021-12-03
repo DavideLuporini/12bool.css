@@ -36,8 +36,8 @@
     justify-content: flex-start;
 }
 .centent-end{
-    text-align: end;
-    justify-content: center;
+    text-align: center;
+    justify-content: flex-end;
 }
 .align-start{  
     align-items: flex-start;
@@ -47,6 +47,15 @@
 }
 .align-end{  
     align-items: flex-end;
+}
+
+/* Flex Proprieties */
+
+.f-growth-0{
+    flex-grow: 0;
+}
+.f-growth-1{
+    flex-grow: 1;
 }
 
 /***** COLUMNS *****/
