@@ -1,12 +1,12 @@
 
 [class^="col"]{
-    height: 50px;
+    padding: 20px;
     background-color: dodgerblue;
     border: 2px solid white;
 
 }
 [class^="off"]{
-    height: 50px;
+    padding: 25px;
     background-color: white;
     border: 2px solid white;
 
@@ -15,8 +15,9 @@
 
 
 .nested{
+    padding: 20px;
     background-color: forestgreen;
-    border: 2px solid blue;
+    border: 2px solid dodgerblue;
 }
 
 
