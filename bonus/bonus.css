@@ -1,0 +1,29 @@
+.row{
+
+    height: 30px;
+}
+
+[class^="col"]{
+    height: 100%;
+    width: auto;
+}
+
+/* colors */
+.bgc-black{
+    background-color: #000000;
+}
+.bgc-orange{
+    background-color: #fd7f42;
+}
+.bgc-orange-fire{
+    background-color: #fd7e3e;
+}
+.bgc-yellow{
+    background-color: #fec040;
+}
+.bgc-white{
+    background-color: #ffffff;
+}
+.bgc-red{
+    background-color: #bf2d37;
+}
